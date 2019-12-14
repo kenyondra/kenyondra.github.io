@@ -1,11 +1,11 @@
 # Site settings
-author: Kenyondra J Conley
-title: 
+author: Kenyondra Conley
+title: “Why did I decide to study Software Engineering?”
 header-img: img/home-bg.png
 email: kenyondra_conley@yahoo.com
-copyright_name: Kenyondra J Conley
+copyright_name: Kenyondra Conley
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Staying focused to reach the finish line
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kenyondra
